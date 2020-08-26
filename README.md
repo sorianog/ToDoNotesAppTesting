@@ -19,8 +19,16 @@ Topics:
 
 * Run & Write your first test
 * Make your tests readable
-* Setup a ViewModel Test with Android X Test
+* Set up a ViewModel Test with Android X Test
 * LiveData Testing Basics
+* Make A Fake Data Source
+* Write a Test using Dependency Injection (DI)
+* Set up a Fake Repository
+* Use the Fake Repository inside a ViewModel
+* Launch a Fragment from a Test
+* Make a ServiceLocator
+* Writing your first Integration Test with Espresso
+* Using Mockito to write Navigation tests
 
 ## Pre-requisites
 
