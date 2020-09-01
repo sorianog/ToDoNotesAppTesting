@@ -11,6 +11,7 @@ You can then mark them as completed or not, filter them and delete them.
 ![App main screen, screenshot](screenshot.png)
 
 The codelabs in this series are:
+
 * [Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics)
 * [Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
 * [Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey)
@@ -29,6 +30,13 @@ Topics:
 * Make a ServiceLocator
 * Writing your first Integration Test with Espresso
 * Using Mockito to write Navigation tests
+* Testing Asynchronous Code
+* Testing Coroutine Timing
+* Testing Error Handling
+* Testing Room
+* Testing Local Data Source
+* End-to-End Testing with Data Binding
+* End-to-End App Navigation Testing
 
 ## Pre-requisites
 
